@@ -9,6 +9,7 @@ public class BinaryConverter {
             System.out.println(i + ": " + Integer.toBinaryString(i));
         }
     }
+####
     
     /*
      * pre: none
